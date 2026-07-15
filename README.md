@@ -63,7 +63,7 @@ Dashboard ini memungkinkan tim bisnis menjawab pertanyaan seperti *"kategori man
 
 ---
 
-## 🍯 Sentuhan Akhir: Rekomendasi Strategis per Label Performa
+## 🍯 Rekomendasi Strategis per Label Performa
 
 Angka tanpa aksi hanyalah angka. Berikut rekomendasi bisnis untuk masing-masing kelompok performa:
 
