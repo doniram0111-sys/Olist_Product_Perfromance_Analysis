@@ -74,13 +74,10 @@ Kategori seperti `health_beauty` (5.841 unit terjual, margin 85,3%, tumbuh 4,7%/
 `small_appliances_home_oven_and_coffee` tumbuh 120% per bulan dengan margin 94% dan rating 4,5 — tapi baru terjual 70 unit. Ini bukan produk yang salah, tapi produk yang **belum ditemukan pasar**. Rekomendasi: tingkatkan budget iklan dan visibilitas pencarian secara agresif, karena setiap tambahan unit terjual hampir seluruhnya menjadi profit bersih.
 
 **😴 Sleeper — *"Bangunkan Sebelum Tertidur Lelap"***
-`watches_gifts` dan `sports_leisure` masih menyumbang revenue besar (masing-masing >Rp500 juta ekuivalen) dengan margin sehat, namun growth-nya sudah negatif. Rekomendasi: lakukan refresh strategi — promo re-engagement, evaluasi harga kompetitor, atau segarkan varian produk — sebelum kategori ini benar-benar jatuh ke "Low Performance".
+`watches_gifts` dan `sports_leisure` masih menyumbang revenue besar dengan margin sehat, namun growth-nya sudah negatif. Rekomendasi: lakukan refresh strategi — promo re-engagement, evaluasi harga kompetitor, atau segarkan varian produk — sebelum kategori ini benar-benar jatuh ke "Low Performance".
 
 **⚠️ Low Performance — *"Evaluasi atau Lepas"***
 Kategori seperti `furniture_mattress_and_upholstery` dan `la_cuisine` memiliki volume sangat kecil dan tren terus menurun (bahkan `la_cuisine` punya rating rendah 2,75). Rekomendasi: lakukan cost-benefit analysis — apakah kategori ini masih layak dipertahankan dalam katalog, atau sebaiknya sumber daya (gudang, marketing) dialihkan ke kategori yang lebih menjanjikan.
-
-**⏺️ Regular Performance — *"Mesin yang Stabil, Cari Titik Ungkit"***
-Mayoritas kategori (43 dari 71) ada di sini — stabil tapi tidak istimewa. Rekomendasi: lakukan analisis lanjutan per sub-segmen (misalnya per wilayah atau musim) untuk menemukan peluang mendorong sebagian kategori ini naik kelas menjadi "Best Performance".
 
 > **Kesimpulan:** strategi bisnis yang baik bukan memperlakukan semua produk secara sama, melainkan mengalokasikan perhatian dan sumber daya sesuai posisi masing-masing kategori dalam siklus hidupnya — *grow the stars, nurture the gems, wake the sleepers, and let go of the laggards.*
 
